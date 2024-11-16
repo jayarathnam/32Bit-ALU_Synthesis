@@ -37,15 +37,15 @@ used.
 
 #### Synthesis RTL Schematic :
 
-![Screenshot 2024-11-11 115729](https://github.com/user-attachments/assets/b2c1d56d-8074-4cfd-b40a-e7cf84fbda02)
+![Screenshot 2024-11-16 155903](https://github.com/user-attachments/assets/7a7b0fe0-2d7b-415c-b7ab-aa73843e4b01)
 
 #### Area report:
 
-![Screenshot 2024-11-16 155815](https://github.com/user-attachments/assets/8340374c-c644-461e-aac9-b9673774ebf2)
+![Screenshot 2024-11-16 163800](https://github.com/user-attachments/assets/702dd1c2-a811-46fe-8df1-026b02edf606)
 
 #### Power Report:
 
-![Screenshot 2024-11-16 160020](https://github.com/user-attachments/assets/55b1eee5-db83-4372-a937-a150b2d2c9c0)
+![Screenshot 2024-11-16 163823](https://github.com/user-attachments/assets/231f4c18-972c-4288-ad3b-781f522476c9)
 
 #### Result: 
 
