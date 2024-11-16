@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# EXP-3: 32Bit-ALU_Synthesis
 
 ## Aim:
 
